@@ -1,0 +1,22 @@
+.feedback {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.feedback .message {
+  flex-direction: column;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+h5 :nth-child(1) {
+  color: brown;
+}
+
+span {
+  font-weight: 900;
+}

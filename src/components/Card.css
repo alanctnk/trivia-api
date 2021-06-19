@@ -1,0 +1,23 @@
+blockquote {
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+}
+
+.card {
+  background-color: inherit;
+  border-color: black;
+  border-radius: 5px;
+  width: 500px;
+  padding: 5px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+.nextBtn {
+  width: 150px;
+  border-radius: 20px;
+}
