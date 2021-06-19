@@ -24,9 +24,10 @@ yarn-error.log*
 
 .vscode
 
-cypress/
+/cypress
 cypress.json
 
 .eslintrc.json
 .eslintignore
 .stylelintrc.json
+.trybe
