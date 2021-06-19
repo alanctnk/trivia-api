@@ -1,6 +1,5 @@
 node_modules/
 cypress/
-build/
 .eslintrc.json
 .eslintignore
 .stylelintrc.json
