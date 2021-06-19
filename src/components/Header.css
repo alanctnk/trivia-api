@@ -1,0 +1,7 @@
+div p {
+  font-size: 26px;
+}
+
+p :nth-child(1) {
+  color: brown;
+}

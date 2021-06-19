@@ -1,0 +1,15 @@
+.loginForm {
+  margin-top: 15px;
+}
+
+.fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 5px;
+}
+.fieldset button {
+  margin: 2px;
+  width: 87px;
+  height: 40px;
+}
